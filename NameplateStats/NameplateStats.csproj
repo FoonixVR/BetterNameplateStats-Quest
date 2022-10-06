@@ -1,0 +1,118 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Il2Cppmscorlib">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\Il2Cppmscorlib.dll</HintPath>
+    </Reference>
+    <Reference Include="Il2CppSystem">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\Il2CppSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="Il2CppSystem.Core">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\Il2CppSystem.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="MelonLoader">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\MelonLoader.dll</HintPath>
+    </Reference>
+    <Reference Include="UnhollowerBaseLib">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\UnhollowerBaseLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIModule">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\UnityEngine.UIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="VRC.Collections">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\VRC.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="VRC.Dynamics">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\VRC.Dynamics.dll</HintPath>
+    </Reference>
+    <Reference Include="VRC.SDK3.Dynamics.Contact">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\VRC.SDK3.Dynamics.Contact.dll</HintPath>
+    </Reference>
+    <Reference Include="VRC.SDK3.Dynamics.PhysBone">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\VRC.SDK3.Dynamics.PhysBone.dll</HintPath>
+    </Reference>
+    <Reference Include="VRC.SDKBase.Editor.BuildPipeline">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\VRC.SDKBase.Editor.BuildPipeline.dll</HintPath>
+    </Reference>
+    <Reference Include="VRC.Udon">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\VRC.Udon.dll</HintPath>
+    </Reference>
+    <Reference Include="VRC.Udon.ClientBindings">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\VRC.Udon.ClientBindings.dll</HintPath>
+    </Reference>
+    <Reference Include="VRC.Udon.Common">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\VRC.Udon.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="VRC.Udon.Security">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\VRC.Udon.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="VRC.Udon.Serialization.AOT">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\VRC.Udon.Serialization.AOT.dll</HintPath>
+    </Reference>
+    <Reference Include="VRC.Udon.Serialization.OdinSerializer">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\VRC.Udon.Serialization.OdinSerializer.dll</HintPath>
+    </Reference>
+    <Reference Include="VRC.Udon.VM">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\VRC.Udon.VM.dll</HintPath>
+    </Reference>
+    <Reference Include="VRC.Udon.VRCWrapperModules">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\VRC.Udon.VRCWrapperModules.dll</HintPath>
+    </Reference>
+    <Reference Include="VRC.Udon.Wrapper">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\VRC.Udon.Wrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="VRC.UI.Core">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\VRC.UI.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="VRC.UI.Elements">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\VRC.UI.Elements.dll</HintPath>
+    </Reference>
+    <Reference Include="VRC.UI.Shared">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\VRC.UI.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="VRC.Utility">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\VRC.Utility.dll</HintPath>
+    </Reference>
+    <Reference Include="VRCCore-Editor">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\VRCCore-Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="VRCCore-Standalone">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\VRCCore-Standalone.dll</HintPath>
+    </Reference>
+    <Reference Include="VRCLog">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\VRCLog.dll</HintPath>
+    </Reference>
+    <Reference Include="VRCSDK2">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\VRCSDK2.dll</HintPath>
+    </Reference>
+    <Reference Include="VRCSDK3">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\VRCSDK3.dll</HintPath>
+    </Reference>
+    <Reference Include="VRCSDK3A">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\VRCSDK3A.dll</HintPath>
+    </Reference>
+    <Reference Include="VRCSDKBase">
+      <HintPath>..\..\..\..\OneDrive - SantaMariaJUHSD\Documents\Shadow\EggClient\bin\Debug\net48\VRCSDKBase.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
